@@ -1,0 +1,20 @@
+[
+    {
+        "complaint_id": "CMP001",
+        "citizen_name": "jefrin",
+        "location": "trichy",
+        "description": "water leakage in my area",
+        "department": "Water Department",
+        "status": "Submitted",
+        "feedback": ""
+    },
+    {
+        "complaint_id": "CMP002",
+        "citizen_name": "guru",
+        "location": "villupuram",
+        "description": "electricty wire cut in malakottai",
+        "department": "Electricity Department",
+        "status": "Resolved",
+        "feedback": "it will be very good"
+    }
+]
